@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "Biswa java projects"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Full Stack Development"
+		},
+		{
+			"path": "../Python programs"
+		},
+		{
+			"path": "../C Programs"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Full Stack Development"
+	}
+}
